@@ -10,7 +10,7 @@
   "author": "Usama Farooq",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.13.1",
+    "apollo-server": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "graphql": "^15.0.0",
